@@ -1,0 +1,24 @@
+{
+  "name": "react-native-region-code",
+  "version": "1.0.0",
+  "description": "Region code helper functions",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/tomas-paronai/react-native-region-code.git"
+  },
+  "keywords": [
+    "react-native-region",
+    "country-picker",
+    "country-code"
+  ],
+  "author": "Tomas Paronai",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tomas-paronai/react-native-region-code/issues"
+  },
+  "homepage": "https://github.com/tomas-paronai/react-native-region-code#readme"
+}
